@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5FC5EBCA-42C6-1126-A1CD-289D1A24E091}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MonkeyBall",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
